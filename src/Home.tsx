@@ -34,7 +34,7 @@ const Home = () => {
 
   //const [startDate, setStartDate] = useState(new Date(props.startDate));
   const wallet = useAnchorWallet();
-  const startDate = new Date('2021-10-31T22:00:00')
+  const startDate = new Date('2021-10-31T21:30:00')
 
 
   return (
